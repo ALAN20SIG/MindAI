@@ -26,8 +26,8 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 
 <p align="center">
   <!-- Replace with your actual demo video link -->
-  <a href="https://youtu.be/YOUR_DEMO_VIDEO_ID">
-    <img src="./docs/assets/demo-thumbnail.png" alt="MindAI Demo Video" width="800">
+  <a href="https://youtu.be/dXuuUdr3DE4">
+    <img src="./docs/screenshots/Dashboard.png" alt="MindAI Demo Video" width="800">
   </a>
 </p>
 
@@ -35,13 +35,6 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
   <i>Click the thumbnail above to watch the full demo on YouTube</i>
 </p>
 
-**Demo Highlights:**
-- 00:00 - Initial greeting and emotion detection
-- 00:45 - Empathetic conversation flow
-- 01:30 - Content recommendation with YouTube integration
-- 02:15 - Mood feedback and RL learning
-- 03:00 - Dashboard with mood tracking
-- 03:45 - Insights and analytics visualization
 
 ---
 
@@ -50,7 +43,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Chat Interface
 
 <p align="center">
-  <img src="./docs/screenshots/chat" alt="Chat Interface" width="800">
+  <img src="./docs/screenshots/chat.png" alt="Chat Interface" width="800">
 </p>
 
 **Features shown:**
@@ -65,7 +58,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Dashboard
 
 <p align="center">
-  <img src="./docs/screenshots/Dashboard" alt="Dashboard" width="800">
+  <img src="./docs/screenshots/Dashboard.png" alt="Dashboard" width="800">
 </p>
 
 **Features shown:**
