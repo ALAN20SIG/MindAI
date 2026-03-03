@@ -50,7 +50,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Chat Interface
 
 <p align="center">
-  <img src="./docs/screenshots/chat-interface.png" alt="Chat Interface" width="800">
+  <img src="./docs/screenshots/chat" alt="Chat Interface" width="800">
 </p>
 
 **Features shown:**
@@ -65,7 +65,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Dashboard
 
 <p align="center">
-  <img src="./docs/screenshots/dashboard.png" alt="Dashboard" width="800">
+  <img src="./docs/screenshots/Dashboard" alt="Dashboard" width="800">
 </p>
 
 **Features shown:**
@@ -80,7 +80,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Insights Page
 
 <p align="center">
-  <img src="./docs/screenshots/insights.png" alt="Insights" width="800">
+  <img src="./docs/screenshots/insight.png" alt="Insights" width="800">
 </p>
 
 **Features shown:**
@@ -95,7 +95,7 @@ Watch MindAI in action - from initial conversation to personalized recommendatio
 ### Dark Mode
 
 <p align="center">
-  <img src="./docs/screenshots/dark-mode.png" alt="Dark Mode" width="800">
+  <img src="./docs/screenshots/Dark.png" alt="Dark Mode" width="800">
 </p>
 
 **Features shown:**
